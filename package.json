@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Gourab Roy",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
